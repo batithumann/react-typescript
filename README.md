@@ -5,7 +5,7 @@ https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/?cou
 
 
 ## First step
-`npx create-react-app <appname> --template typescript</appname>`
+`npx create-react-app <appname> --template typescript`
 
 # Getting Started with Create React App
 
